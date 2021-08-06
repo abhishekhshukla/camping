@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/66065167/120653436-4a93a900-c49e-11eb-823e-a71f1fb93677.png)
 
 ## Description 
-# This is an web app by the users for the users, If you are an owner You can signin and Publish your Venue along with all the reqiired details.
+# This is an web app by the users for the users, If you are an owner You can signin and Publish your Venue along with all the required details.
 # If you are user you can search for your favorite destination, Want give feedback or suggestion for any place, then you can comment over ther.
 
 ## Technology Used
